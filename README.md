@@ -6,3 +6,4 @@
 # BlackJack1
 # BlackJack
 # BlackJack
+# text2binary
